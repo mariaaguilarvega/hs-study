@@ -1,0 +1,10 @@
+Compañía,Origen,Destino,Paradas,Tipo de servicio
+Renfe (AVE),Madrid,Barcelona,"Zaragoza, Lleida, Tarragona",Alta velocidad
+Renfe (AVE),Madrid,Sevilla,"Ciudad Real, Puertollano, Córdoba",Alta velocidad
+Renfe (AVE),Madrid,Málaga,"Córdoba, Antequera, Puente Genil",Alta velocidad
+Avlo,Madrid,Barcelona,"Guadalajara, Calatayud, Zaragoza, Lleida, Tarragona",Bajo coste
+Avlo,Madrid,Valencia,"Cuenca, Requena-Utiel",Bajo coste
+Iryo,Madrid,Barcelona,"Zaragoza, Tarragona",Alta velocidad
+Iryo,Madrid,Sevilla,Córdoba,Alta velocidad
+Ouigo,Madrid,Barcelona,"Zaragoza, Tarragona",Económico
+Ouigo,Madrid,Valencia,Cuenca,Económico

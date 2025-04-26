@@ -1,0 +1,30 @@
+Compañía,Origen,Destino,Paradas,Tipo de servicio
+Renfe (AVE),Madrid,Barcelona,"Zaragoza, Lleida, Tarragona",Alta velocidad
+Renfe (AVE),Madrid,Sevilla,"Ciudad Real, Puertollano, Córdoba",Alta velocidad
+Renfe (AVE),Madrid,Málaga,"Córdoba, Antequera, Puente Genil",Alta velocidad
+Renfe (AVE),Madrid,Valencia,"Cuenca, Requena-Utiel",Alta velocidad
+Renfe (AVE),Madrid,Alicante,"Albacete, Villena",Alta velocidad
+Renfe (AVE),Madrid,Granada,"Córdoba, Antequera",Alta velocidad
+Renfe (AVE),Madrid,León,"Valladolid, Palencia",Alta velocidad
+Renfe (AVE),Madrid,Vigo,Ourense,Alta velocidad
+Renfe (AVE),Barcelona,Lyon,Directo,Internacional
+Renfe (AVE),Madrid,Marsella,Directo,Internacional
+Avlo,Madrid,Barcelona,"Guadalajara, Calatayud, Zaragoza, Lleida, Tarragona, Girona, Figueres",Bajo coste
+Avlo,Madrid,Valencia,"Cuenca, Requena-Utiel",Bajo coste
+Avlo,Madrid,Alicante,"Cuenca, Albacete, Villena",Bajo coste
+Avlo,Madrid,Málaga,"Ciudad Real, Puertollano, Córdoba, Puente Genil, Antequera",Bajo coste
+Avlo,Madrid,Sevilla,"Ciudad Real, Puertollano, Córdoba",Bajo coste
+Avlo,Madrid,Murcia,"Cuenca, Albacete, Villena, Alicante, Elche, Orihuela",Bajo coste
+Iryo,Madrid,Barcelona,"Zaragoza, Tarragona",Alta velocidad
+Iryo,Madrid,Valencia,Cuenca,Alta velocidad
+Iryo,Madrid,Alicante,"Cuenca, Albacete",Alta velocidad
+Iryo,Madrid,Sevilla,Córdoba,Alta velocidad
+Iryo,Madrid,Málaga,"Córdoba, Antequera",Alta velocidad
+Iryo,Madrid,Granada,"Córdoba, Antequera",Alta velocidad
+Iryo,Barcelona,Valencia,Directo,Alta velocidad
+Ouigo,Madrid,Barcelona,"Zaragoza, Tarragona",Económico
+Ouigo,Madrid,Valencia,Cuenca,Económico
+Ouigo,Madrid,Alicante,"Cuenca, Albacete",Económico
+Ouigo,Madrid,Sevilla,Córdoba,Económico
+Ouigo,Madrid,Málaga,"Córdoba, Antequera",Económico
+Ouigo,Madrid,Murcia,"Albacete, Elche",Económico
